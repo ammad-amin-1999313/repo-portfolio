@@ -3,56 +3,66 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
+                title: 'Comsats University',
+                degree: 'BS, Computer Science',
+                detail: "Bachelor's  in Computer Science  from Comsats University.",
                 year: '2018-2022'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
+                title: 'Al-Ghazali College of Sciences',
                 degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
+                detail: "Completed FSC Pre-Engineering from Al-Ghazali College.",
                 year: '2015-2017'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
+                title: 'Al-Ghazali College of Sciences',
                 degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
+                detail: "Completed SSC in Science subjects from Al-Ghazali",
                 year: '2013-2015'
             },
         ]
     },
     {
         expCards: [
-            {
-                id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
-            },
+            // {
+            //     id: 1,
+            //     title: 'Auto Advisers',
+            //     role: 'Next/React Developer',
+            //     url: 'https://autoadvisers.com/',
+            //     desc: 'As a Next/React Developer, I design and implement dynamic, responsive web applications using React, Next.js, and TypeScript. My focus is on delivering seamless user experiences and optimizing performance.',
+            //     year: '09/2024 - Present',
+            //     location: 'Islamabad, Pakistan'
+            // },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Intelgency IT Solutions',
+                role: 'React Developer',
+                url: 'https://intelgency.com/',
+                desc: 'At Intelgency, I specialize in developing interactive user interfaces using React, Next.js, and JavaScript, ensuring high-performance web applications with a focus on usability and responsiveness.',
+                year: '02/2024 - Present',
+                location: 'Islamabad, Pakistan'
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
+                title: 'Geeks Hub Digital',
+                role: 'Front End Developer',
+                url: 'https://www.linkedin.com/company/geekshub-io/',
+                desc: 'As a Front End Developer, I was responsible for integrating front-end technologies and worked extensively with Firebase. I also collaborated closely with design teams to deliver intuitive and user-friendly interfaces.',
                 year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                location: 'Abbottabad, Pakistan'
             },
+            {
+                id: 4,
+                title: 'Freelance',
+                role: 'React Developer',
+                url: 'N/A',
+                desc: 'On Fiverr, I focused on developing React-based web applications and converting Figma designs into responsive front-end code. My work included enhancing user experience and optimizing website performance.',
+                year: '09/2020 - 02/2021',
+                location: 'Remote'
+            }
+            
 
         ]
     }
