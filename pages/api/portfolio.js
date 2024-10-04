@@ -1,40 +1,31 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM ERP",
-        url: "https://jmmerp.com/",
-        image: "projects/erp.png",
-        projectDetail: "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+        projectName: "BallContrl",
+        url: "https://ball-contrl.onrender.com/",
+        image: "projects/ballcontrl.png",
+        projectDetail: "A platform for booking girls' football practice sessions by location, featuring an e-commerce store for football kits.",
         technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "GraphQL"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
+            { tech: "ReactJS" },
+            { tech: "Stripe" },
+            { tech: "TailwindCSS" },
+            { tech: "NodeJS" },
+            { tech: "ExpressJS" },
         ]
-    },
+    }
+,    
     {
         id: 0,
-        projectName: "ABSCO",
-        url: "https://absco.sa/",
+        projectName: "Slasher-E-commerce-App",
+        url: "https://github.com/ammad-amin-1999313/Slasher-E-commerce-App",
         image: "projects/absco.png",
-        projectDetail: "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
+        projectDetail: "",
         technologiesUsed: [
             {
                 tech: "ReactJS"
             },
             {
-                tech: "Ant Design"
+                tech: "Responsive Design"
             },
             {
                 tech: "TailwindCSS"
@@ -43,10 +34,10 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+        projectName: "Imagine-Network",
+        url: "https://github.com/Usamahafiz8/Imagine-Network",
+        image: "projects/Imagine-Network.png",
+        projectDetail: "",
         technologiesUsed: [
             {
                 tech: "ReactJS"
@@ -187,10 +178,10 @@ const portfolio = [
     },
     {
         id: 2,
-        projectName: "Spatay",
-        url: "https://spatay.com/",
-        image: "projects/spatay.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "admin-dash-board",
+        url: "https://github.com/ammad-amin-1999313/admin-dash-board",
+        image: "projects/admin-dash-board.png",
+        projectDetail: "",
         technologiesUsed: [
             {
                 tech: "ReactJS"
@@ -199,10 +190,7 @@ const portfolio = [
                 tech: "NodeJS"
             },
             {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
+                tech: "Syncfusion"
             },
             {
                 tech: "TailwindCSS"
